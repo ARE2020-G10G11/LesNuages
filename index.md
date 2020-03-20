@@ -39,4 +39,4 @@ Présentation du choix de modélisation, des outils, du code et des résultats (
 
 **Carte mentale de vos mots-clés, en utilisant** <a href="https://framindmap.org/mindmaps/index.html">Framindmap </a> 
 
-Liste de l'ensemble des ressources bibliographiques utilisées pour vos travaux. **<= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)**
+http://www.meteofrance.fr/prevoir-le-temps/phenomenes-meteo/les-nuages# (source wikipedia) **<= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)**
