@@ -33,7 +33,7 @@ Les nuages ont une influence sur le climat à long terme et peuvent être respon
 
 Présentation du choix de modélisation, des outils, du code et des résultats (tableaux, courbes, animations...) (**avec une analyse critique**).
 
-## Lien vers page de blog : <a href="blog.html"> C'est ici ! </a>
+## Lien vers page de blog : <a href="https://github.com/ARE2020-G10G11/LesNuages/blob/master/blog.md"> C'est ici ! </a>
 
 ## Bibliographie :
 
