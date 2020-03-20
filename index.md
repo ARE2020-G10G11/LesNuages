@@ -40,4 +40,8 @@ Présentation du choix de modélisation, des outils, du code et des résultats (
 
 **Carte mentale de vos mots-clés, en utilisant** <a href="https://framindmap.org/mindmaps/index.html">Framindmap </a> 
 
-http://www.meteofrance.fr/prevoir-le-temps/phenomenes-meteo/les-nuages# (source wikipedia) **<= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)**
+http://www.meteofrance.fr/prevoir-le-temps/phenomenes-meteo/les-nuages# (source wikipedia)
+http://theconversation.com/les-nuages-enfants-terribles-du-climat-113102 
+https://www.nature.com/articles/ngeo2398 (google scholar)
+**<= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)**
+
