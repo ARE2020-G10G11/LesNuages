@@ -28,6 +28,7 @@ Les nuages ont une influence sur le climat à long terme et peuvent être respon
 - Savoir si les nuages auront un impact sur le climat sur le long terme.
 
 **Critère(s) d'évaluation :**
+- Etudier si, lorsqu'un nuage est présent dans une zone, les valeurs de plusieurs variables sont modifiées (temperature, précipitations, temperature moyenne sur le long terme).
 
 ## Présentation structurée des résultats
 
