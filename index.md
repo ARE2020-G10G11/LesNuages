@@ -39,7 +39,7 @@ Présentation du choix de modélisation, des outils, du code et des résultats (
 ## Bibliographie :
 
 **Carte mentale de vos mots-clés, en utilisant** <a href="https://framindmap.org/mindmaps/index.html">Framindmap </a> 
-![alt text] (https://github.com/louiseb2001/Image/blob/master/index.png "framindmap 1")
+![alt text](https://github.com/louiseb2001/Image/blob/master/index.png "framindmap 1")
 
 http://www.meteofrance.fr/prevoir-le-temps/phenomenes-meteo/les-nuages# (source wikipedia)
 http://theconversation.com/les-nuages-enfants-terribles-du-climat-113102 
