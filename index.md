@@ -43,5 +43,7 @@ Présentation du choix de modélisation, des outils, du code et des résultats (
 http://www.meteofrance.fr/prevoir-le-temps/phenomenes-meteo/les-nuages# (source wikipedia)
 http://theconversation.com/les-nuages-enfants-terribles-du-climat-113102 
 https://www.nature.com/articles/ngeo2398 (google scholar)
+https://link.springer.com/article/10.1007/s00382-011-1279-7 (google scholar)
+https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2012GL053265 (google scholar)
 **<= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)**
 
