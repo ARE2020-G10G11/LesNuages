@@ -31,8 +31,12 @@ Les nuages ont une influence sur le climat à long terme et peuvent être respon
 - Etudier si, lorsqu'un nuage est présent dans une zone, les valeurs de plusieurs variables sont modifiées (temperature, précipitations, temperature moyenne sur le long terme).
 
 ## Présentation structurée des résultats
-
 Présentation du choix de modélisation, des outils, du code et des résultats (tableaux, courbes, animations...) (**avec une analyse critique**).
+
+# Variables du modèle des nuages
+nuage     # Presence d'un nuage (1=oui 0=non)
+temp    # Temperature
+prec       # Precipitations
 
 ## Lien vers page de blog : <a href="https://github.com/ARE2020-G10G11/LesNuages/blob/master/blog.md"> C'est ici ! </a>
 
