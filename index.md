@@ -7,7 +7,7 @@ The project consists of researching the influence of clouds on the climate throu
 
 ## Présentation de l'équipe
 
-|(´・ω・｀)| ( ͡° ͜ʖ ͡°) | ಠ_ಠ |
+
 |-----|--|--|
 |Lisa Elaidi|Louise Baraton|Yann Franceschetti|
 
