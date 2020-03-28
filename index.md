@@ -7,10 +7,7 @@ The project consists of researching the influence of clouds on the climate throu
 
 ## Présentation de l'équipe
 
-
-|-----|--|--|
 |Lisa Elaidi|Louise Baraton|Yann Franceschetti|
-
 
 ## Description synthétique du projet
 
